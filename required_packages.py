@@ -25,5 +25,3 @@ from mrcnn import visualize
 from mrcnn.visualize import display_images
 import mrcnn.model as modellib
 from mrcnn.model import log
-
-import dog
